@@ -1,0 +1,64 @@
+about:
+  description:
+  |
+    No Nonsense Neovim Client in Rust
+  license: MIT
+  homepage: https://neovide.dev
+  head: 105fd64
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-09-23T13:24:41Z
+timeline:
+  created: 2019-12-06
+  lastCommit: 2026-09-19
+  lastRelease: 2026-09-20
+popularity:
+  star: 15217
+  watcher: 69
+  fork: 635
+  release: 33
+  contributor: 232
+  pullRequest: 208
+  issue: 2216
+language:
+  Rust: 1141195
+  Lua: 15484
+  Handlebars: 14835
+  Shell: 5632
+  CSS: 4112
+  JavaScript: 1888
+  Dockerfile: 1680
+totalBytes: 1184826
+recent:
+  last30d:
+    since: 2026-08-24
+    release: 1
+    mergedPR: 5
+    openPR: 3
+    closedIssue: 3
+    openIssue: 6
+    commit: 7
+  last90d:
+    since: 2026-06-25
+    release: 1
+    mergedPR: 12
+    openPR: 8
+    closedIssue: 8
+    openIssue: 21
+    commit: 12
+  last180d:
+    since: 2026-03-27
+    release: 4
+    mergedPR: 46
+    openPR: 15
+    closedIssue: 31
+    openIssue: 44
+    commit: 41
+  last360d:
+    since: 2025-09-28
+    release: 4
+    mergedPR: 152
+    openPR: 17
+    closedIssue: 61
+    openIssue: 67
+    commit: 163
