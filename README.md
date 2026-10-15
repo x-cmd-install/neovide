@@ -32,28 +32,28 @@ Total: **30,173** lines of code across **101** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.16.2` (2026-04-14)
+- **Latest**: `nightly` (2026-04-14)
 - **Last commit**: 2026-10-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 15,268 · **Forks**: 636 · **Open issues**: 2,217 · **Contributors**: 232
+- **Stars**: 15,270 · **Forks**: 638 · **Open issues**: 2,218 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 877 · **Open PRs**: 25 · **Closed issues**: 1960 · **Open issues**: 257 · **Commits**: 1594
+- **Releases**: 33 · **Merged PRs**: 878 · **Open PRs**: 28 · **Closed issues**: 1962 · **Open issues**: 256 · **Commits**: 1594
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 11 | 1 | 5 | 4 | 14 |
-| last60d | 2026-08-15 | 0 | 17 | 4 | 12 | 7 | 19 |
-| 90d | 2026-07-16 | 0 | 23 | 5 | 16 | 15 | 23 |
-| last180d | 2026-04-17 | 0 | 34 | 10 | 26 | 25 | 33 |
-| 360d | 2025-10-19 | 3 | 161 | 13 | 71 | 55 | 171 |
-| last720d | 2024-10-24 | 8 | 272 | 19 | 212 | 132 | 287 |
+| 30d | 2026-09-15 | 1 | 11 | 4 | 5 | 4 | 14 |
+| last60d | 2026-08-16 | 1 | 18 | 7 | 13 | 7 | 20 |
+| 90d | 2026-07-17 | 1 | 24 | 8 | 17 | 14 | 24 |
+| last180d | 2026-04-18 | 1 | 35 | 13 | 28 | 23 | 34 |
+| 360d | 2025-10-20 | 4 | 161 | 16 | 72 | 53 | 172 |
+| last720d | 2024-10-25 | 9 | 272 | 22 | 213 | 131 | 287 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for neovide lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:17:45Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:05:21Z._
