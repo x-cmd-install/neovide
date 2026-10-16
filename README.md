@@ -14,11 +14,11 @@ x install neovide
 
 ## Code insight
 
-Total: **30,173** lines of code across **101** files in the top 5 languages.
+Total: **30,181** lines of code across **101** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 28,498 | 870 | 4,205 | 91 |
+| Rust | 28,506 | 871 | 4,206 | 91 |
 | Lua | 413 | 31 | 67 | 2 |
 | Handlebars | 268 | 14 | 32 | 1 |
 | Toml | 264 | 3 | 18 | 5 |
@@ -33,27 +33,27 @@ Total: **30,173** lines of code across **101** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-04-14)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-15
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 15,270 · **Forks**: 638 · **Open issues**: 2,218 · **Contributors**: 233
+- **Stars**: 15,274 · **Forks**: 638 · **Open issues**: 2,218 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 878 · **Open PRs**: 28 · **Closed issues**: 1962 · **Open issues**: 256 · **Commits**: 1594
+- **Releases**: 33 · **Merged PRs**: 880 · **Open PRs**: 28 · **Closed issues**: 1967 · **Open issues**: 251 · **Commits**: 1596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 11 | 4 | 5 | 4 | 14 |
-| last60d | 2026-08-16 | 1 | 18 | 7 | 13 | 7 | 20 |
-| 90d | 2026-07-17 | 1 | 24 | 8 | 17 | 14 | 24 |
-| last180d | 2026-04-18 | 1 | 35 | 13 | 28 | 23 | 34 |
-| 360d | 2025-10-20 | 4 | 161 | 16 | 72 | 53 | 172 |
-| last720d | 2024-10-25 | 9 | 272 | 22 | 213 | 131 | 287 |
+| 30d | 2026-09-16 | 1 | 12 | 4 | 5 | 3 | 16 |
+| last60d | 2026-08-17 | 1 | 20 | 7 | 13 | 7 | 22 |
+| 90d | 2026-07-18 | 1 | 26 | 8 | 18 | 13 | 26 |
+| last180d | 2026-04-19 | 1 | 36 | 13 | 29 | 22 | 36 |
+| 360d | 2025-10-21 | 4 | 163 | 16 | 73 | 52 | 174 |
+| last720d | 2024-10-26 | 9 | 274 | 22 | 216 | 128 | 289 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for neovide lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:05:21Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:54:11Z._
