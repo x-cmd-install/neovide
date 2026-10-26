@@ -48,12 +48,12 @@ Total: **33,254** lines of code across **134** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 25 | 1 | 4 | 3 | 28 |
-| last60d | 2026-08-26 | 1 | 32 | 4 | 10 | 6 | 33 |
-| 90d | 2026-07-27 | 1 | 38 | 7 | 14 | 14 | 38 |
-| last180d | 2026-04-28 | 1 | 47 | 10 | 26 | 22 | 46 |
-| 360d | 2025-10-30 | 4 | 172 | 15 | 72 | 51 | 178 |
-| last720d | 2024-11-04 | 9 | 288 | 21 | 213 | 126 | 302 |
+| 30d | 2026-09-26 | 1 | 25 | 1 | 3 | 3 | 28 |
+| last60d | 2026-08-27 | 1 | 32 | 4 | 9 | 6 | 33 |
+| 90d | 2026-07-28 | 1 | 38 | 7 | 14 | 13 | 38 |
+| last180d | 2026-04-29 | 1 | 47 | 10 | 26 | 22 | 46 |
+| 360d | 2025-10-31 | 4 | 171 | 15 | 71 | 51 | 178 |
+| last720d | 2024-11-05 | 9 | 288 | 21 | 213 | 126 | 302 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for neovide lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:10:48Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:12:49Z._
