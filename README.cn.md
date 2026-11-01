@@ -14,11 +14,11 @@ x install neovide
 
 ## 代码洞察
 
-合计: **34,159** 行代码（覆盖前 5 种语言、共 **134** 个文件）。
+合计: **34,024** 行代码（覆盖前 5 种语言、共 **134** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 32,419 | 911 | 4,702 | 123 |
+| Rust | 32,284 | 908 | 4,689 | 123 |
 | Lua | 454 | 33 | 74 | 2 |
 | Toml | 288 | 3 | 19 | 6 |
 | Handlebars | 268 | 14 | 32 | 1 |
@@ -32,40 +32,40 @@ x install neovide
 
 ## 发布
 
-- **最新版本**: `0.17.0` (2026-10-31)
+- **最新版本**: `0.17.1` (2026-10-31)
 - **最近提交**: 2026-10-31
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 15,290 · **Fork**: 642 · **开放 issue**: 2,221 · **贡献者**: 233
+- **Star**: 15,291 · **Fork**: 642 · **开放 issue**: 2,222 · **贡献者**: 233
 
 ## 累计统计
 
-- **发布数**: 34 · **已合并 PR**: 898 · **开放 PR**: 26 · **已关闭 issue**: 1968 · **开放 issue**: 253 · **提交数**: 1615
+- **发布数**: 35 · **已合并 PR**: 900 · **开放 PR**: 26 · **已关闭 issue**: 1969 · **开放 issue**: 253 · **提交数**: 1617
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 29 | 1 | 1 | 4 | 33 |
-| last60d | 2026-09-01 | 2 | 32 | 3 | 9 | 7 | 38 |
-| 90d | 2026-08-02 | 2 | 43 | 6 | 13 | 11 | 43 |
-| last180d | 2026-05-04 | 2 | 51 | 9 | 24 | 21 | 51 |
-| 360d | 2025-11-05 | 5 | 175 | 14 | 71 | 50 | 183 |
-| last720d | 2024-11-10 | 10 | 292 | 20 | 213 | 125 | 306 |
+| 30d | 2026-10-02 | 3 | 31 | 1 | 2 | 4 | 35 |
+| last60d | 2026-09-02 | 3 | 34 | 3 | 10 | 7 | 37 |
+| 90d | 2026-08-03 | 3 | 45 | 6 | 14 | 11 | 44 |
+| last180d | 2026-05-05 | 3 | 53 | 9 | 25 | 21 | 52 |
+| 360d | 2025-11-06 | 6 | 177 | 14 | 72 | 50 | 179 |
+| last720d | 2024-11-11 | 11 | 294 | 20 | 214 | 125 | 308 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.0/Neovide-aarch64-apple-darwin.dmg) | 11.7 MiB | `native/darwin/arm64` |
-| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.0/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
-| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.0/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
-| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.0/Neovide-x86_64-apple-darwin.dmg) | 12.2 MiB | `native/darwin/x64` |
-| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.0/neovide.AppImage) | 12.9 MiB | `other` |
-| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.0/neovide.AppImage.zsync) | 45.2 KiB | `other` |
-| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.0/neovide.msi) | 12.4 MiB | `other` |
+| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.1/Neovide-aarch64-apple-darwin.dmg) | 11.7 MiB | `native/darwin/arm64` |
+| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.1/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
+| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.1/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
+| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.1/Neovide-x86_64-apple-darwin.dmg) | 12.1 MiB | `native/darwin/x64` |
+| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.1/neovide.AppImage) | 12.8 MiB | `other` |
+| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.1/neovide.AppImage.zsync) | 45.2 KiB | `other` |
+| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.1/neovide.msi) | 12.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ neovide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T06:12:27Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T06:45:07Z._

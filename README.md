@@ -14,11 +14,11 @@ x install neovide
 
 ## Code insight
 
-Total: **34,159** lines of code across **134** files in the top 5 languages.
+Total: **34,024** lines of code across **134** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,419 | 911 | 4,702 | 123 |
+| Rust | 32,284 | 908 | 4,689 | 123 |
 | Lua | 454 | 33 | 74 | 2 |
 | Toml | 288 | 3 | 19 | 6 |
 | Handlebars | 268 | 14 | 32 | 1 |
@@ -32,40 +32,40 @@ Total: **34,159** lines of code across **134** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.17.0` (2026-10-31)
+- **Latest**: `0.17.1` (2026-10-31)
 - **Last commit**: 2026-10-31
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 15,290 · **Forks**: 642 · **Open issues**: 2,221 · **Contributors**: 233
+- **Stars**: 15,291 · **Forks**: 642 · **Open issues**: 2,222 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 898 · **Open PRs**: 26 · **Closed issues**: 1968 · **Open issues**: 253 · **Commits**: 1615
+- **Releases**: 35 · **Merged PRs**: 900 · **Open PRs**: 26 · **Closed issues**: 1969 · **Open issues**: 253 · **Commits**: 1617
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 29 | 1 | 1 | 4 | 33 |
-| last60d | 2026-09-01 | 2 | 32 | 3 | 9 | 7 | 38 |
-| 90d | 2026-08-02 | 2 | 43 | 6 | 13 | 11 | 43 |
-| last180d | 2026-05-04 | 2 | 51 | 9 | 24 | 21 | 51 |
-| 360d | 2025-11-05 | 5 | 175 | 14 | 71 | 50 | 183 |
-| last720d | 2024-11-10 | 10 | 292 | 20 | 213 | 125 | 306 |
+| 30d | 2026-10-02 | 3 | 31 | 1 | 2 | 4 | 35 |
+| last60d | 2026-09-02 | 3 | 34 | 3 | 10 | 7 | 37 |
+| 90d | 2026-08-03 | 3 | 45 | 6 | 14 | 11 | 44 |
+| last180d | 2026-05-05 | 3 | 53 | 9 | 25 | 21 | 52 |
+| 360d | 2025-11-06 | 6 | 177 | 14 | 72 | 50 | 179 |
+| last720d | 2024-11-11 | 11 | 294 | 20 | 214 | 125 | 308 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.0/Neovide-aarch64-apple-darwin.dmg) | 11.7 MiB | `native/darwin/arm64` |
-| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.0/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
-| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.0/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
-| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.0/Neovide-x86_64-apple-darwin.dmg) | 12.2 MiB | `native/darwin/x64` |
-| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.0/neovide.AppImage) | 12.9 MiB | `other` |
-| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.0/neovide.AppImage.zsync) | 45.2 KiB | `other` |
-| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.0/neovide.msi) | 12.4 MiB | `other` |
+| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.1/Neovide-aarch64-apple-darwin.dmg) | 11.7 MiB | `native/darwin/arm64` |
+| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.1/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
+| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.1/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
+| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.1/Neovide-x86_64-apple-darwin.dmg) | 12.1 MiB | `native/darwin/x64` |
+| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.1/neovide.AppImage) | 12.8 MiB | `other` |
+| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.1/neovide.AppImage.zsync) | 45.2 KiB | `other` |
+| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.1/neovide.msi) | 12.4 MiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for neovide lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:12:27Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:45:06Z._
