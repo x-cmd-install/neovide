@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12301735,
       "digest": "sha256:4ca5df25a4e3d2a5fff63a4b7625c97bc9fd98c4ed359b22c0003c73eddc1c82",
-      "download_count": 1222,
+      "download_count": 2033,
       "created_at": "2026-10-31T12:20:10Z",
       "updated_at": "2026-10-31T12:20:11Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.1/Neovide-aarch64-apple-darwin.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13483906,
       "digest": "sha256:899614d6f9324c7471fad3070b7f270ddaa53679269796c890a573b591a00c01",
-      "download_count": 23,
+      "download_count": 34,
       "created_at": "2026-10-31T12:20:10Z",
       "updated_at": "2026-10-31T12:20:11Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.1/neovide-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12709483,
       "digest": "sha256:081c764146baa47085bec46e3ee30b17acbcd4776a742b5eab7f334639460715",
-      "download_count": 52,
+      "download_count": 72,
       "created_at": "2026-10-31T12:20:10Z",
       "updated_at": "2026-10-31T12:20:12Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.1/neovide-windows-x86_64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12737045,
       "digest": "sha256:1a2f3d2d4dd46f9717cccc3d58f375324fda29953bc86bfa1d8b6766ac535eb6",
-      "download_count": 131,
+      "download_count": 174,
       "created_at": "2026-10-31T12:20:11Z",
       "updated_at": "2026-10-31T12:20:12Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.1/Neovide-x86_64-apple-darwin.dmg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13470200,
       "digest": "sha256:18e975933eb3cc422e6cd0bcde169f4948490d37ef44892905d74e1c02d19eec",
-      "download_count": 82,
+      "download_count": 123,
       "created_at": "2026-10-31T12:20:10Z",
       "updated_at": "2026-10-31T12:20:12Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.1/neovide.AppImage"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 46249,
       "digest": "sha256:ab550938a8f91f37425cde19764fe3c84a8d0df621ab651922f78a7b7d04f8ae",
-      "download_count": 71,
+      "download_count": 120,
       "created_at": "2026-10-31T12:20:12Z",
       "updated_at": "2026-10-31T12:20:12Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.1/neovide.AppImage.zsync"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13037568,
       "digest": "sha256:28e4cba9fd9017da6009d4db3910bf4b51dbbeb039d3e19210e04c12cb6868b8",
-      "download_count": 526,
+      "download_count": 790,
       "created_at": "2026-10-31T12:20:12Z",
       "updated_at": "2026-10-31T12:20:13Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.1/neovide.msi"
