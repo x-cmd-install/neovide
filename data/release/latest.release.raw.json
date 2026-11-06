@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12300172,
       "digest": "sha256:45f6bbec3f067ae595578127249714411dc2a8fb37a34f598eb8175ac767ea7b",
-      "download_count": 720,
+      "download_count": 1372,
       "created_at": "2026-11-04T12:51:41Z",
       "updated_at": "2026-11-04T12:51:43Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.2/Neovide-aarch64-apple-darwin.dmg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13491299,
       "digest": "sha256:73e2d96aa7efd40cffc2600c1d017f73fb0ce554683a3f3a18fa5f812c5c2b0f",
-      "download_count": 10,
+      "download_count": 35,
       "created_at": "2026-11-04T12:51:41Z",
       "updated_at": "2026-11-04T12:51:43Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.2/neovide-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12705653,
       "digest": "sha256:53fbc5bbcd41adb73badab7ae42103846a1358ef1cfa98dce8b98fae63aa4c68",
-      "download_count": 35,
+      "download_count": 145,
       "created_at": "2026-11-04T12:51:41Z",
       "updated_at": "2026-11-04T12:51:43Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.2/neovide-windows-x86_64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12737430,
       "digest": "sha256:3f81dce5f8507fa6602c5d194b79d28bc7d9c0bccb5b0380c5648bda25f22a76",
-      "download_count": 73,
+      "download_count": 87,
       "created_at": "2026-11-04T12:51:41Z",
       "updated_at": "2026-11-04T12:51:43Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.2/Neovide-x86_64-apple-darwin.dmg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13478392,
       "digest": "sha256:99f9b9ffd74d4d20bbb86ea1aaaf46eb2b6617a7193a0f719f046568034d9772",
-      "download_count": 56,
+      "download_count": 105,
       "created_at": "2026-11-04T12:51:41Z",
       "updated_at": "2026-11-04T12:51:43Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.2/neovide.AppImage"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 46277,
       "digest": "sha256:f6cf652a79ed832993db0829cd021c2ba47ec6229c4a7bf52af02189b25133b6",
-      "download_count": 46,
+      "download_count": 92,
       "created_at": "2026-11-04T12:51:43Z",
       "updated_at": "2026-11-04T12:51:44Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.2/neovide.AppImage.zsync"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13029376,
       "digest": "sha256:c8460bab3f75387822fd41e24114436d72fb879b45e7131f20fef2f5523921d6",
-      "download_count": 256,
+      "download_count": 475,
       "created_at": "2026-11-04T12:51:43Z",
       "updated_at": "2026-11-04T12:51:44Z",
       "browser_download_url": "https://github.com/neovide/neovide/releases/download/0.17.2/neovide.msi"
@@ -294,8 +294,8 @@
   "body": "Note that `neovide_fill_bottom_background` is [opt-in](https://neovide.dev/configuration.html#bottom-background-fill-available-since-0172) by default from now since it is an experimental option.\r\n\r\n## What's Changed\r\n* feat: add bottom background filling toggle by @falcucci in https://github.com/neovide/neovide/pull/3626\r\n* fix: address CVE-2026-25541 by @falcucci in https://github.com/neovide/neovide/pull/3622\r\n* fix: address GHSA-3PV8-6F4R-FFG2 by @falcucci in https://github.com/neovide/neovide/pull/3623\r\n* fix: address GHSA-CQ8V-F236-94QC by @falcucci in https://github.com/neovide/neovide/pull/3625\r\n* fix: constrain bottom background filling to the main grid by @falcucci in https://github.com/neovide/neovide/pull/3629\r\n* fix: support macOS proxy icon state on neovim nightly (0.13+) by @falcucci in https://github.com/neovide/neovide/pull/3630\r\n* fix: turn bottom background filling opt-in by default by @falcucci in https://github.com/neovide/neovide/pull/3631\r\n\r\n\r\n**Full Changelog**: https://github.com/neovide/neovide/compare/0.17.1...0.17.2",
   "reactions": {
     "url": "https://api.github.com/repos/neovide/neovide/releases/433915670/reactions",
-    "total_count": 2,
-    "+1": 1,
+    "total_count": 3,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
