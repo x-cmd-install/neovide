@@ -38,22 +38,22 @@ Total: **34,396** lines of code across **134** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,298 · **Forks**: 642 · **Open issues**: 2,229 · **Contributors**: 233
+- **Stars**: 15,299 · **Forks**: 643 · **Open issues**: 2,229 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 910 · **Open PRs**: 25 · **Closed issues**: 1977 · **Open issues**: 252 · **Commits**: 1627
+- **Releases**: 36 · **Merged PRs**: 910 · **Open PRs**: 25 · **Closed issues**: 1978 · **Open issues**: 251 · **Commits**: 1627
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 4 | 31 | 0 | 7 | 3 | 33 |
-| last60d | 2026-09-14 | 4 | 43 | 3 | 12 | 7 | 47 |
-| 90d | 2026-08-15 | 4 | 51 | 5 | 20 | 10 | 53 |
-| last180d | 2026-05-17 | 4 | 60 | 9 | 31 | 22 | 60 |
-| 360d | 2025-11-18 | 7 | 176 | 13 | 74 | 48 | 181 |
-| last720d | 2024-11-23 | 12 | 300 | 19 | 218 | 122 | 314 |
+| 30d | 2026-10-15 | 4 | 29 | 0 | 8 | 2 | 33 |
+| last60d | 2026-09-15 | 4 | 43 | 3 | 13 | 6 | 47 |
+| 90d | 2026-08-16 | 4 | 51 | 5 | 21 | 9 | 53 |
+| last180d | 2026-05-18 | 4 | 60 | 9 | 31 | 21 | 60 |
+| 360d | 2025-11-19 | 7 | 175 | 13 | 75 | 47 | 181 |
+| last720d | 2024-11-24 | 12 | 300 | 19 | 219 | 121 | 314 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for neovide lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:09:31Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:57:37Z._
