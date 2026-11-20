@@ -32,40 +32,40 @@ Total: **35,450** lines of code across **138** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `nightly` (2026-11-04)
-- **Last commit**: 2026-11-18
+- **Latest**: `0.17.3` (2026-11-20)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 15,303 · **Forks**: 644 · **Open issues**: 2,231 · **Contributors**: 233
+- **Stars**: 15,304 · **Forks**: 645 · **Open issues**: 2,232 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 913 · **Open PRs**: 26 · **Closed issues**: 1980 · **Open issues**: 251 · **Commits**: 1630
+- **Releases**: 37 · **Merged PRs**: 914 · **Open PRs**: 26 · **Closed issues**: 1980 · **Open issues**: 252 · **Commits**: 1631
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 31 | 1 | 10 | 2 | 27 |
-| last60d | 2026-09-20 | 4 | 44 | 4 | 15 | 4 | 49 |
-| 90d | 2026-08-21 | 4 | 54 | 6 | 22 | 9 | 56 |
-| last180d | 2026-05-23 | 4 | 63 | 10 | 33 | 21 | 63 |
-| 360d | 2025-11-24 | 7 | 175 | 14 | 76 | 46 | 179 |
-| last720d | 2024-11-29 | 12 | 303 | 20 | 219 | 121 | 317 |
+| 30d | 2026-10-21 | 5 | 29 | 1 | 10 | 2 | 28 |
+| last60d | 2026-09-21 | 5 | 45 | 4 | 15 | 5 | 50 |
+| 90d | 2026-08-22 | 5 | 55 | 6 | 20 | 9 | 57 |
+| last180d | 2026-05-24 | 5 | 64 | 10 | 33 | 22 | 64 |
+| 360d | 2025-11-25 | 8 | 176 | 14 | 76 | 47 | 180 |
+| last720d | 2024-11-30 | 13 | 304 | 20 | 218 | 122 | 318 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.2/Neovide-aarch64-apple-darwin.dmg) | 11.7 MiB | `native/darwin/arm64` |
-| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.2/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
-| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.2/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
-| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.2/Neovide-x86_64-apple-darwin.dmg) | 12.1 MiB | `native/darwin/x64` |
-| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.2/neovide.AppImage) | 12.9 MiB | `other` |
-| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.2/neovide.AppImage.zsync) | 45.2 KiB | `other` |
-| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.2/neovide.msi) | 12.4 MiB | `other` |
+| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.3/Neovide-aarch64-apple-darwin.dmg) | 11.8 MiB | `native/darwin/arm64` |
+| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.3/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
+| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.3/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
+| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.3/Neovide-x86_64-apple-darwin.dmg) | 12.2 MiB | `native/darwin/x64` |
+| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.3/neovide.AppImage) | 12.9 MiB | `other` |
+| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.3/neovide.AppImage.zsync) | 45.2 KiB | `other` |
+| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.3/neovide.msi) | 12.4 MiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for neovide lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:49:04Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:30:56Z._

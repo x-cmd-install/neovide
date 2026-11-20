@@ -32,40 +32,40 @@ x install neovide
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-11-04)
-- **最近提交**: 2026-11-18
+- **最新版本**: `0.17.3` (2026-11-20)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 15,303 · **Fork**: 644 · **开放 issue**: 2,231 · **贡献者**: 233
+- **Star**: 15,304 · **Fork**: 645 · **开放 issue**: 2,232 · **贡献者**: 233
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 913 · **开放 PR**: 26 · **已关闭 issue**: 1980 · **开放 issue**: 251 · **提交数**: 1630
+- **发布数**: 37 · **已合并 PR**: 914 · **开放 PR**: 26 · **已关闭 issue**: 1980 · **开放 issue**: 252 · **提交数**: 1631
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 31 | 1 | 10 | 2 | 27 |
-| last60d | 2026-09-20 | 4 | 44 | 4 | 15 | 4 | 49 |
-| 90d | 2026-08-21 | 4 | 54 | 6 | 22 | 9 | 56 |
-| last180d | 2026-05-23 | 4 | 63 | 10 | 33 | 21 | 63 |
-| 360d | 2025-11-24 | 7 | 175 | 14 | 76 | 46 | 179 |
-| last720d | 2024-11-29 | 12 | 303 | 20 | 219 | 121 | 317 |
+| 30d | 2026-10-21 | 5 | 29 | 1 | 10 | 2 | 28 |
+| last60d | 2026-09-21 | 5 | 45 | 4 | 15 | 5 | 50 |
+| 90d | 2026-08-22 | 5 | 55 | 6 | 20 | 9 | 57 |
+| last180d | 2026-05-24 | 5 | 64 | 10 | 33 | 22 | 64 |
+| 360d | 2025-11-25 | 8 | 176 | 14 | 76 | 47 | 180 |
+| last720d | 2024-11-30 | 13 | 304 | 20 | 218 | 122 | 318 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.2/Neovide-aarch64-apple-darwin.dmg) | 11.7 MiB | `native/darwin/arm64` |
-| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.2/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
-| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.2/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
-| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.2/Neovide-x86_64-apple-darwin.dmg) | 12.1 MiB | `native/darwin/x64` |
-| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.2/neovide.AppImage) | 12.9 MiB | `other` |
-| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.2/neovide.AppImage.zsync) | 45.2 KiB | `other` |
-| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.2/neovide.msi) | 12.4 MiB | `other` |
+| [Neovide-aarch64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.3/Neovide-aarch64-apple-darwin.dmg) | 11.8 MiB | `native/darwin/arm64` |
+| [neovide-linux-x86_64.tar.gz](https://github.com/neovide/neovide/releases/download/0.17.3/neovide-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
+| [neovide-windows-x86_64.zip](https://github.com/neovide/neovide/releases/download/0.17.3/neovide-windows-x86_64.zip) | 12.1 MiB | `native/win/x64` |
+| [Neovide-x86_64-apple-darwin.dmg](https://github.com/neovide/neovide/releases/download/0.17.3/Neovide-x86_64-apple-darwin.dmg) | 12.2 MiB | `native/darwin/x64` |
+| [neovide.AppImage](https://github.com/neovide/neovide/releases/download/0.17.3/neovide.AppImage) | 12.9 MiB | `other` |
+| [neovide.AppImage.zsync](https://github.com/neovide/neovide/releases/download/0.17.3/neovide.AppImage.zsync) | 45.2 KiB | `other` |
+| [neovide.msi](https://github.com/neovide/neovide/releases/download/0.17.3/neovide.msi) | 12.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ neovide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T09:49:04Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T09:30:56Z._
